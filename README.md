@@ -15,6 +15,12 @@ Front end | HTML | CSS | JavaScript | React | React Native
 (And as far as technology takes me! Always learning!)
 
 <p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brunoalmes&theme=dark&show_icons=true"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalmes&theme=blue-green"/>
 </p>
