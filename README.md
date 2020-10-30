@@ -79,5 +79,5 @@ Front end | HTML | CSS | JavaScript | React | React Native
 <img src="https://img.shields.io/badge/ifood-EA1D2C?logo=ifood&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Uber%20Eats-5FB709?logo=uber-eats&logoColor=white&style=for-the-badge" />
 
 <p align="center">
-<img src="https://github.com/brunoalmes/imagens/blob/main/foreverwk.png" width="300" />
+<img src="https://github.com/brunoalmes/imagens/blob/main/foreverwk.png" width="400" />
 </p>
