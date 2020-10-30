@@ -1,4 +1,4 @@
-# Hello! It's Bruno here! :rocket:
+# Hello! It's Bruno de Almeida Rodrigues here!
 
 <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
 dev.brunorodrigues@gmail.com
