@@ -5,15 +5,12 @@
 &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/bruno-rodrigues-a0a6711b6)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
 &nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/brunoalmes)
-&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.brunorodrigues@gmail.com)](mailto:dev.brunorodrigues@gmail.com)
 
 ## About me
+<hr>
 
 <b>Currently looking to listen and read more than to speak what shouldn't.</b>
 
@@ -27,23 +24,36 @@ Front end | HTML | CSS | JavaScript | React | React Native
 </p>
 
 ## Languages and Technologies
+<hr>
 
 #### Languages 
+<hr>
+
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 
 #### Front-end | Mobile 
+<hr>
+
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 #### Design
+<hr>
+
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 #### Database 
+<hr>
+
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 
 #### Operational System 
+<hr>
+
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 
 #### Workspace Spec
+<hr>
+
 <img src="https://img.shields.io/badge/apple-macbook%20pro%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/apple-imac%20-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
