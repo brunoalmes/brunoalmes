@@ -9,7 +9,7 @@ dev.brunorodrigues@gmail.com
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/brunoalmes)
 &nbsp;
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55021972651955&text=Hello! Bruno Here!)](https://api.whatsapp.com/send?phone=55021972651955&text=Hello! Bruno Here!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+55+021+972651955&text=Hello! Bruno Here!)]
 
 ## About me
 
