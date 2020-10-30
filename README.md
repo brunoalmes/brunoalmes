@@ -8,6 +8,8 @@ dev.brunorodrigues@gmail.com
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/brunoalmes)
+&nbsp;
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55021972651955&text=Hello! Bruno Here!)](https://api.whatsapp.com/send?phone=55021972651955&text=Hello! Bruno Here!)
 
 ## About me
 
