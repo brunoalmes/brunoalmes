@@ -1,5 +1,4 @@
-# Hello! It's Bruno de Almeida Rodrigues here!
-<hr>
+# Hello! It's Bruno Rodrigues here!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoalmes)](https://github.com/brunoalmes)
 &nbsp;
@@ -14,6 +13,12 @@
 Front end | HTML | CSS | JavaScript | React | React Native
 
 (And as far as technology takes me)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoalmes)](https://github.com/brunoalmes)
+&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/bruno-rodrigues-a0a6711b6)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.brunorodrigues@gmail.com)](mailto:dev.brunorodrigues@gmail.com)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brunoalmes&theme=dark&show_icons=true"/> 
