@@ -1,6 +1,10 @@
 # Hello! It's Bruno de Almeida Rodrigues here!
 <hr>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoalmes)](https://github.com/brunoalmes)
+&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/bruno-rodrigues-a0a6711b6)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
+&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/brunoalmes)
