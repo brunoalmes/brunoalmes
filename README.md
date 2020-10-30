@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
 dev.brunorodrigues@gmail.com
 
+<hr>
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/brunoalmes)
