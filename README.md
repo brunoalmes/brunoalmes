@@ -1,4 +1,4 @@
-# Hello! It's Bruno Rodrigues here! <img src="icones-markdown/mascarar.png />
+# Hello! It's Bruno Rodrigues here! <img src="https://github.com/brunoalmes/icones-markdown/blob/main/mascarar.png" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoalmes)](https://github.com/brunoalmes)
 &nbsp;
