@@ -10,7 +10,7 @@
 
 **_Currently looking to listen and read more than to speak what shouldn't._**
 
-Front end | HTML | CSS | JavaScript | React | React Native
+Front end Developer | HTML | CSS | JavaScript | React | React Native
 
 (And as far as technology takes me! Always learning!)
 
