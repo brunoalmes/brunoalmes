@@ -4,6 +4,7 @@
 &nbsp;
 <hr>
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/brunoalmes)
+&nbsp;
 <hr>
 <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" /> dev.brunorodrigues@gmail.com
 
