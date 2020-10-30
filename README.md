@@ -1,16 +1,13 @@
 # Hello! It's Bruno de Almeida Rodrigues here!
-
-<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
-dev.brunorodrigues@gmail.com
-
 <hr>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/bruno-rodrigues-a0a6711b6)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/brunoalmes)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/brunoalmes)
 &nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.brunorodrigues@gmail.com)](mailto:dev.brunorodrigues@gmail.com)
 
 ## About me
 
